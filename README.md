@@ -60,18 +60,8 @@ int main()
         }
     }
 
-    return 0;![Screenshot 05-18-2021 23 12 35](https://user-images.githubusercontent.com/77538165/118725283-9844bc00-b7e4-11eb-95b4-0accec53806b.png)
+    return 0;
 ![Screenshot 05-18-2021 23 12 35](https://user-images.githubusercontent.com/77538165/118725357-b5798a80-b7e4-11eb-8d58-f3645f89b1b9.png)
-
-
-
-
-
-
-
-
-
-
 
 public class MatixMultiplication
 {
