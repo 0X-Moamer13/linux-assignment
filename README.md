@@ -1,3 +1,4 @@
+![Screenshot 06-08-2021 18 32 01](https://user-images.githubusercontent.com/77538165/121223524-18829e00-c834-11eb-8305-60b85eee5272.png)
 # linux-assignment
 #include <stdio.h>
 
@@ -109,6 +110,7 @@ Java code:
 
 
 
+![Screenshot 06-08-2021 18 32 01](https://user-images.githubusercontent.com/77538165/121223544-1f111580-c834-11eb-94b0-255a57f8e4d0.png)
 
 
 
