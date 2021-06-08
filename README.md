@@ -61,6 +61,54 @@ int main()
     }
 
     return 0;
+    
+    
+    
 ![Screenshot 05-18-2021 23 12 35](https://user-images.githubusercontent.com/77538165/118725357-b5798a80-b7e4-11eb-8d58-f3645f89b1b9.png)
+
+
+
+
+
+
+
+
+
+Java code: 
+
+
+    
+        public static void main(String args[]){  
+        //creating two matrices    
+        int x[][]={{1,1,1},{2,2,2},{3,3,3}};    
+        int y[][]={{1,1,1},{2,2,2},{3,3,3}};    
+
+        //creating another matrix to store the multiplication of two matrices    
+        int z[][]=new int[3][3];  //3 rows and 3 columns  
+
+        //multiplying and printing multiplication of 2 matrices    
+        for(int i=0;i<3;i++){    
+        for(int j=0;j<3;j++){    
+        c[i][j]=0;      
+        for(int k=0;k<3;k++)      
+        {      
+        z[i][j]+=x[i][k]*y[k][j];      
+        }//end of k loop  
+        System.out.print(z[i][j]+" ");  //printing matrix element  
+        }//end of j loop  
+        System.out.println();//new line    
+        }    
+        }}
+
+
+
+
+
+
+
+
+
+
+
 
 
